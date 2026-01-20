@@ -29,7 +29,7 @@ This project is a simple web application that generates an instant dashboard fro
 
 ## AI API Used
 This Application uses the Google Gemini API to generate frontend HTML Dashboards.
-Model: Gemini-2.5-flash (generateContent endpoint)
+ - Model: Gemini-2.5-flash (generateContent endpoint)
  - The AI is instructed to behave as a frontend developer.
  - It outputs a complete HTML file styled with Tailwind CSS.
  - Strict rules are applied to ensure the AI uses only the data provided in the JSON.
