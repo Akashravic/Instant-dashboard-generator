@@ -12,7 +12,6 @@ This project is a simple web application that generates an instant dashboard fro
 
 2. Create and activate a virtual environment
  - python -m venv venv
-On windows:
  - venc\Scripts\activate
 
 3. Install Dependencies
@@ -23,10 +22,10 @@ On windows:
  - GEMINI_API_KEY=your_api_key_here
 
 5. Start the Server
- python app.py
+ - python app.py
 
 6. Open the app in a browser
- http://127.0.0.1:5000
+ - http://127.0.0.1:5000
 
 ## AI API Used
 This Application uses the Google Gemini API to generate frontend HTML Dashboards.
